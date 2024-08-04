@@ -57,7 +57,7 @@ We welcome contributions! Please follow these steps:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or feedback, please contact [your-email@example.com](mailto:princetrojan@proton.me).
+For questions or feedback, please contact [princetrojan@proton.me](mailto:princetrojan@proton.me).
 
 Thank you for using Share the Meal and helping to combat hunger in our communities!<br/>
-[![Watch the app video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
+<video src="https://user-images.githubusercontent.com/Screen_Recording_20240715_151412_Share The Meal.mp4"></video>
